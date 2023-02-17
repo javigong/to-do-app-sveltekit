@@ -2,6 +2,12 @@
 
 To-Do list app implemented with SvelteKit and TypeScript. It uses a Writable store that allows both updating and reading the state by subscription, including `update` methods to `add`, `delete`, `toggle complete` and `edit` to-dos (see [`TodoStore.ts`](https://github.com/javigong/to-do-app-sveltekit/blob/main/src/lib/store/TodoStore.ts)).
 
+# Screen Captures
+
+<img src="https://user-images.githubusercontent.com/42308135/219768353-1472fec9-68f1-48cf-9d02-e0c417766b84.gif" width="700" />
+
+<img src="https://user-images.githubusercontent.com/42308135/219768391-35f24e12-b598-48a2-a7e0-8dee44598afd.gif" width="700" />
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
