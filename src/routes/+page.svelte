@@ -1,5 +1,6 @@
 <script>
-  import AddTodoSection from "$lib/components/todo/AddTodoSection.svelte";
+  import ProgressSection from "$lib/components/progress/ProgressSection.svelte";
+import AddTodoSection from "$lib/components/todo/AddTodoSection.svelte";
 	import TodoSection from "$lib/components/todo/TodoSection.svelte";
 </script>
 
@@ -9,6 +10,7 @@
     <div class="mt-10">
       <AddTodoSection />
       <TodoSection />
+      <ProgressSection />
     </div>
   </main>
 </div>
