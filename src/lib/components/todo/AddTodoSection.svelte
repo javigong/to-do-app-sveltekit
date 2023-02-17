@@ -1,7 +1,5 @@
 <script>
 	import { addTodo } from "$lib/store/TodoStore";
-
-
 	</script>
 
 <section class="flex justify-between">
