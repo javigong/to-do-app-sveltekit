@@ -4,7 +4,11 @@ To-Do list app implemented with SvelteKit and TypeScript. It uses a Writable sto
 
 # Screen Captures
 
+Add task and toggle complete
+
 <img src="https://user-images.githubusercontent.com/42308135/219768353-1472fec9-68f1-48cf-9d02-e0c417766b84.gif" width="700" />
+
+Toggle complete/in progress and delete task
 
 <img src="https://user-images.githubusercontent.com/42308135/219768391-35f24e12-b598-48a2-a7e0-8dee44598afd.gif" width="700" />
 
