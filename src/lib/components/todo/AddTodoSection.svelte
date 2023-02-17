@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { addTodo } from "$lib/store/TodoStore";
 	</script>
 

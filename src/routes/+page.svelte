@@ -1,7 +1,7 @@
-<script>
+<script lang="ts">
   import ProgressSection from "$lib/components/progress/ProgressSection.svelte";
-import AddTodoSection from "$lib/components/todo/AddTodoSection.svelte";
-	import TodoSection from "$lib/components/todo/TodoSection.svelte";
+  import AddTodoSection from "$lib/components/todo/AddTodoSection.svelte";
+  import TodoSection from "$lib/components/todo/TodoSection.svelte";
 </script>
 
 <div class="min-h-screen bg-olive-one selection:bg-green-two md:py-24 md:px-8">

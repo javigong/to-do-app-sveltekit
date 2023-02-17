@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import { todos } from "$lib/store/TodoStore";
 	import TodoInput from "./TodoInput.svelte";
 </script>
